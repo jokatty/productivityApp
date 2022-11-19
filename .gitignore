@@ -1,2 +1,11 @@
 # Specific files #
 backend/settings.py
+
+# OS generated files #
+.DS_Store
+ehthumbs.db
+Icon
+Thumbs.db
+
+# Directories #
+logs/
